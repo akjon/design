@@ -1,15 +1,14 @@
 ---
-Title: Report
-Description: This is my report page.
+Title: Redovisning
+Description: Min sida med redovisningar.
 ---
 
-Report page
+Redovisningar
 ==========================
 
-## Kmom01
-
-* Question 1
-
-* Question 2
-
-* Question 3
+* [kmom01](report/kmom01)
+* [kmom02](report/kmom02)
+* [kmom03](report/kmom03)
+* [kmom04](report/kmom04)
+* [kmom05](report/kmom05)
+* [kmom06](report/kmom06)

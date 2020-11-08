@@ -1,9 +1,9 @@
 ---
-Title: About
-Description: This is my about page.
+Title: Om
+Description: Min om-sida
 ---
 
-About page
+Om sidan
 ==========================
 
-About me.
+Detta är en sida som jag utvecklar under kursen design på BTH.

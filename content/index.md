@@ -1,9 +1,10 @@
 ---
-Title: Home
-Description: This is our index page.
+Title: Hem
+Description: Min hemsida.
 ---
 
-Home page
+Välkommen till min portfölj
 ==========================
 
-My name is Johnny I live in the woods and like games and happy animals.
+<img src="assets/img/me.png">
+Jag heter Johnny, bor i skogen, älskar teknik, natur och glada djur.

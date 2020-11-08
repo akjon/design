@@ -1,8 +1,8 @@
 ---
-Logo: image/me.png
-Tagline: Nerd and aspiring web developer
+Logo: image/logo.png
+Tagline: Aspirerande webutvecklare
 Social:
-    - title: Link till sidans github repo.
+    - title: Länk till sidans github repo.
       url: https://github.com/akjon/design
       icon: github
 ---
