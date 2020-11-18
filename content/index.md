@@ -1,13 +1,10 @@
 ---
-Title: Home
-Description: This is our index page.
+Title: Hem
+Description: Min hemsida.
 ---
 
-Home page
+Välkommen till min portfölj
 ==========================
 
-The source for this page is in `content/index.md`.
-
-This is a sample home page written in markdown with some frontmatter defined.
-
-The pages make up a Anax site for demonstration purpose, it is something to start from.
+<img src="assets/img/me.png">
+Jag heter Johnny, bor i skogen, älskar teknik, natur och glada djur.
