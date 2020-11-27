@@ -3,8 +3,8 @@ Title: Hem
 Description: Min hemsida.
 ---
 
-Välkommen till min portfölj
+Välkommen
 ==========================
 
 <img src="assets/img/me.png">
-Jag heter Johnny, bor i skogen, älskar teknik, natur och glada djur.
+Jag heter Johnny, bor i skogen, älskar teknik, natur och glada djur.csa
