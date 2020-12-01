@@ -1,6 +1,7 @@
 ---
 Title: Om
 Description: Min om-sida
+icon: fa fa-user
 ---
 
 Om sidan

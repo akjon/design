@@ -1,6 +1,7 @@
 ---
 Title: Hem
 Description: Min hemsida.
+icon: fas fa-home
 ---
 
 Välkommen

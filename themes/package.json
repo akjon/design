@@ -6,9 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "stylelint \"**/*.scss\"",
-    "watch": "sass jka2/scss/style.scss jka2/css/style.css --no-source-map --watch",
-    "style": "sass jka2/scss/style.scss jka2/css/style.css --no-source-map",
-    "style-min": "sass jka2/scss/style.scss jka2/css/style.min.css --no-source-map --style compressed"
+    "watch": "sass jka3/scss/style.scss jka3/css/style.css --no-source-map --watch",
+    "style": "sass jka3/scss/style.scss jka3/css/style.css --no-source-map",
+    "style-min": "sass jka3/scss/style.scss jka3/css/style.min.css --no-source-map --style compressed"
   },
   "keywords": [],
   "author": "",

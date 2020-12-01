@@ -1,6 +1,7 @@
 ---
 Title: Redovisning
 Description: Min sida med redovisningar.
+icon: fas fa-file-alt
 ---
 
 Redovisningar
